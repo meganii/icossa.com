@@ -1,0 +1,13 @@
+---
+title: "test"
+date: 2016-09-06T23:10:04+09:00
+comments: true
+category: ['']
+tags: ['']
+published: false
+slug: test
+img:
+---
+
+<!--more-->
+{{% googleadsense %}}
