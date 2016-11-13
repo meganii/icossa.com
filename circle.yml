@@ -1,0 +1,55 @@
+machine:
+  timezone: Asia/Tokyo
+  ruby:
+    version: 2.2.4
+  python:
+    version: 3.5.1
+
+dependencies:
+  cache_directories:
+    - mecab-0.996
+    - mecab-ipadic-2.7.0-20070801
+  pre:
+    - git config --global user.name "meganii"
+    - git config --global user.email "yuhei24@gmail.com"
+    - go get -v github.com/spf13/hugo
+    - pip install --upgrade pip
+    - sudo apt-get update -qq
+    - sudo apt-get install -qq python3-dev
+    - >
+      if [[ ! -e mecab-0.996/src/mecab ]]; then
+        wget https://mecab.googlecode.com/files/mecab-0.996.tar.gz &&
+        tar xvzf mecab-0.996.tar.gz &&
+        cd mecab-0.996 &&
+        ./configure --enable-utf8-only &&
+        make
+      fi
+    - >
+      cd mecab-0.996 &&
+      sudo make install &&
+      sudo ldconfig
+    - >
+      if [[ ! -e mecab-ipadic-2.7.0-20070801/sys.dic ]]; then
+        wget https://mecab.googlecode.com/files/mecab-ipadic-2.7.0-20070801.tar.gz &&
+        tar xvzf mecab-ipadic-2.7.0-20070801.tar.gz &&
+        cd mecab-ipadic-2.7.0-20070801 &&
+        ./configure --with-charset=utf8 &&
+        make
+      fi
+    - >
+      cd mecab-ipadic-2.7.0-20070801 &&
+      sudo make install
+    - pip install -r requirements.txt
+
+test:
+  override:
+    - python -V
+
+deployment:
+  master:
+    branch: master
+    commands:
+      - rake create_relatedposts
+      - rake -q deploy_to_sakura_from_circleci
+      - pwd
+      - git add data/* tmp/* && git commit -m "[ci skip] publish"; if [ $? -eq 0 ]; then git push origin master; else :; fi
