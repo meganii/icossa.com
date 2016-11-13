@@ -6,15 +6,20 @@ category: ['ホテル']
 tags: ['モアナ・サーフライダー']
 published: true
 slug: moana-surfrider-hotel
+img: "/hawaii-wedding/images/2016/05/thumb_R0058204_1024-100x100.jpg"
 ---
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/05/thumb_R0058204_1024-1024x768.jpg" alt="モアナサーフライダー" width="640" height="480" class="aligncenter size-large wp-image-70" />
+<img src="/hawaii-wedding/images/2016/05/thumb_R0058204_1024-1024x768.jpg" alt="モアナサーフライダー" width="640" height="480" class="aligncenter size-large wp-image-70" />
 
 ハワイ挙式のとき、オワフ島では「モアナ・サーフライダー」に泊まりました。元々は、部屋のグレード的にはあまり高くない部屋を予約していったのですが、ハネムーナーということでアップグレードしてくれたみたいで、ペントハウスというところに宿泊することができました。
 
 こんなことされたら、次も泊まるしかなくなるではないか！
 
+<!--more-->
+{{% googleadsense %}}
+
+
 ペントハウスからの眺めも抜群です！！
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/05/thumb_R0058193_1024-1024x768.jpg" alt="hawaii" width="640" height="480" class="aligncenter size-large wp-image-60" />
+<img src="/hawaii-wedding/images/2016/05/thumb_R0058193_1024-1024x768.jpg" alt="hawaii" width="640" height="480" class="aligncenter size-large wp-image-60" />
 
 正面玄関から入ると、そのまま海側まで出ることができます。風が吹き抜けていくので、気持ちが良いです。また、正面玄関の脇には、あのあこがれの揺れる椅子(ロッキングチェア)が置いてあり、ゆらゆらとのんびり過ごすことができます。ホテルの隣には、ハワイで有名なコナ・コーヒーがあるので、美味しいコーヒーと、アサイーボウルを片手に優雅な時間を過ごせます。
 

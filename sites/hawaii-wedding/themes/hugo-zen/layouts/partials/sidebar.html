@@ -1,28 +1,5 @@
 <aside class="three columns">
-
-  <section>
-    <h2>Profile</h2>
-    <div id="profile">
-      <div class="header-logo"><img src="{{ .Site.Params.logo }}" width="60" height="60"></div>
-      <p>広く浅くから広く深くへ</p>
-    </div>
-  </section>
-
-  <section>
-    <h2>Popular</h2>
-    {{ partial "popular.html" . }}
-  </section>
-
-  <!-- Movie-->
-  {{ if in .Params.category "Movie" }}
-    {{ partial "sidebar_movie.html" . }}
-  {{ end }}
-
-  <!-- Tech -->
-  {{ if in .Params.category "Tech" }}
-    {{ partial "sidebar_tech.html" . }}
-  {{ end }}
-
+  
   <section class="sidebar-module">
     <h2>Latest</h2>
     <ul class="list-unstyled urllist">

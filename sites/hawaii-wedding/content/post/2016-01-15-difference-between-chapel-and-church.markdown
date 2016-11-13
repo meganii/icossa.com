@@ -6,7 +6,7 @@ category: ['式場選び']
 tags: ['チャーチ','チャペル','式場','教会']
 published: true
 slug: difference-between-chapel-and-church
-img: 
+img:
 ---
 
 ハワイでの挙式を考えたときに、よく出てくるチャペルとチャーチ(教会)が出てきますが、その違いはご存知でしょうか？
@@ -21,7 +21,7 @@ img:
 - 海の見える場所や、緑に囲まれたハワイ感あふれるロケーションに位置している
 - 比較的小さく30-40人程度収容できる
 
-<a href="http://www.watabe-wedding.co.jp/resort_wedding/hawaii/ko_olina/" target="_blank"><img class="alignleft" src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/01/1.jpeg" alt="" width="150" height="130" align="left" border="0" /></a><a style="color: #0070c5;" href="http://www.watabe-wedding.co.jp/resort_wedding/hawaii/ko_olina/" target="_blank">コオリナ・チャペル・プレイス・オブ・ジョイ | ハワイ挙式 | リゾートウェディング「リゾ婚」なら【ワタベウェディング】</a><br style="clear: both;" />
+<a href="http://www.watabe-wedding.co.jp/resort_wedding/hawaii/ko_olina/" target="_blank"><img class="alignleft" src="/hawaii-wedding/images/2016/01/1.jpeg" alt="" width="150" height="130" align="left" border="0" /></a><a style="color: #0070c5;" href="http://www.watabe-wedding.co.jp/resort_wedding/hawaii/ko_olina/" target="_blank">コオリナ・チャペル・プレイス・オブ・ジョイ | ハワイ挙式 | リゾートウェディング「リゾ婚」なら【ワタベウェディング】</a><br style="clear: both;" />
 
 
 ## チャーチ(教会)
@@ -30,7 +30,7 @@ img:
 - ステンドグラスがあったり、神聖な場所が多い
 - 100〜200人など大規模
 
-<a href="http://www.thecathedralofstandrew.org/" target="_blank"><img class="alignleft" src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/01/2.jpeg" alt="" width="150" height="130" align="left" border="0" /></a><a style="color: #0070c5;" href="http://www.thecathedralofstandrew.org/" target="_blank">The Cathedral of St. Andrew | The Episcopal Diocese of Hawaii</a><br style="clear: both;" />
+<a href="http://www.thecathedralofstandrew.org/" target="_blank"><img class="alignleft" src="/hawaii-wedding/images/2016/01/2.jpeg" alt="" width="150" height="130" align="left" border="0" /></a><a style="color: #0070c5;" href="http://www.thecathedralofstandrew.org/" target="_blank">The Cathedral of St. Andrew | The Episcopal Diocese of Hawaii</a><br style="clear: both;" />
 
 
 海の見える式場など、思い浮かべるハワイ挙式は、おそらくチャペルだと思います。いわゆるハワイらしい挙式を求めるのであれば、チャペルを中心に探すのがよいです。
@@ -46,4 +46,4 @@ img:
 自分たちは、色々と悩んだ挙句、セントアンドリュース教会で挙げました。その話はまた次回にでも！
 
 ## 参考
-<a href="http://www.watabe-wedding.co.jp/trend/shop-minamiaoyama/2014/04/post_24.html" target="_blank"><img class="alignleft" src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/01/3.jpeg" alt="" width="150" height="130" align="left" border="0" /></a><a style="color: #0070c5;" href="http://www.watabe-wedding.co.jp/trend/shop-minamiaoyama/2014/04/post_24.html" target="_blank">「チャペル」と「教会」の違いとは...？ | 国内サロン[南青山サロン]のブログ | リゾートウェディング「リゾ婚」なら【ワタベウェディング】</a>
+<a href="http://www.watabe-wedding.co.jp/trend/shop-minamiaoyama/2014/04/post_24.html" target="_blank"><img class="alignleft" src="/hawaii-wedding/images/2016/01/3.jpeg" alt="" width="150" height="130" align="left" border="0" /></a><a style="color: #0070c5;" href="http://www.watabe-wedding.co.jp/trend/shop-minamiaoyama/2014/04/post_24.html" target="_blank">「チャペル」と「教会」の違いとは...？ | 国内サロン[南青山サロン]のブログ | リゾートウェディング「リゾ婚」なら【ワタベウェディング】</a>

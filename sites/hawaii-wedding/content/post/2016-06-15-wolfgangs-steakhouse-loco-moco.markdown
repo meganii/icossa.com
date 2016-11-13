@@ -6,9 +6,10 @@ category: ['グルメ']
 tags: ['ステーキ','ウルフギャング・ステーキハウス']
 published: true
 slug: wolfgangs-steakhouse-loco-moco
+img: /hawaii-wedding/images/2016/06/loco-moco_27575339662_o-100x100.jpg
 ---
 
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/loco-moco_27575339662_o-1024x1024.jpg" alt="loco-moco_27575339662_o" width="640" height="640" class="aligncenter size-large wp-image-84" />
+<img src="/hawaii-wedding/images/2016/06/loco-moco_27575339662_o-1024x1024.jpg" alt="loco-moco_27575339662_o" width="640" height="640" class="aligncenter size-large wp-image-84" />
 
 ## ハッピーアワーでHappyに！
 
@@ -26,7 +27,7 @@ slug: wolfgangs-steakhouse-loco-moco
 
 ## ジュージュー熟成肉〜Taste of NEW YORK〜
 
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/taste-of-new-york_27686548545_o-1024x767.jpg" alt="taste-of-new-york_27686548545_o" width="640" height="479" class="aligncenter size-large wp-image-87" />
+<img src="/hawaii-wedding/images/2016/06/taste-of-new-york_27686548545_o-1024x767.jpg" alt="taste-of-new-york_27686548545_o" width="640" height="479" class="aligncenter size-large wp-image-87" />
 
 続いて、お目当のTaste of NEW YORK!!
 ジュージューと熱々のお皿に入ったままウエイターが席に運んできてくれ、そのまま取り分けて貰いました。

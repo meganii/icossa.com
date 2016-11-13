@@ -6,9 +6,10 @@ category: ['ホテル']
 tags: ['ヒルトン','タイムシェア']
 published: true
 slug: hilton-free-voucher
+img: /hawaii-wedding/images/2016/06/hilton-100x100.png
 ---
 
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/hilton.png" alt="hilton" width="719" height="532" class="aligncenter size-full wp-image-103" />
+<img src="/hawaii-wedding/images/2016/06/hilton.png" alt="hilton" width="719" height="532" class="aligncenter size-full wp-image-103" />
 
 出掛けた先で、ハワイ旅行のプレゼント応募キャンペーンをやっていたことはないでしょうか？
 
@@ -39,7 +40,7 @@ slug: hilton-free-voucher
 ## ヒルトン・ハワイアンビレッジ
 
 
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/hilton.jpg" alt="hilton" width="600" height="800" class="aligncenter size-full wp-image-106" />
+<img src="/hawaii-wedding/images/2016/06/hilton.jpg" alt="hilton" width="600" height="800" class="aligncenter size-full wp-image-106" />
 
 ということで、無事、2016/06/08-6/10とヒルトン・ハワイアンビレッジに宿泊することが出来ました！ホテルの施設の充実っぷりには、びっくりしました。まさに、ビレッジということでそこでなんでも揃っている感がありました。
 

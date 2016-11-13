@@ -6,9 +6,10 @@ category: ['グルメ']
 tags: ['パンケーキ','ブーツ・アンド・キモーズ']
 published: true
 slug: boots-and-kimos
+img: /hawaii-wedding/images/2016/06/IMG_1505-100x100.jpg
 ---
 
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/IMG_1505-1024x1024.jpg" alt="IMG_1505" width="640" height="640" class="aligncenter size-large wp-image-116" />
+<img src="/hawaii-wedding/images/2016/06/IMG_1505-1024x1024.jpg" alt="IMG_1505" width="640" height="640" class="aligncenter size-large wp-image-116" />
 
 ヒルトン・ハワイアンビレッジからバスに揺られること40分。バス停を間違えて降りて迷うこと30分。そこから歩くこと15分で、ようやくBoots & Kimo'sに辿り着きました。朝8:30に出たのに、Boots & Kimo'sに着いたのは10時過ぎでした。
 
@@ -17,11 +18,11 @@ slug: boots-and-kimos
 店の前のメニューを眺めながら、何を注文するか決め、後はひたすら待ちます。私達のお目当ては、やはり「名物マカダミアナッツ・ソースのパンケーキ」です。他のものも美味しそうで、注文したかったのですが持ち合わせの現金がなかったので断念しました。(支払いにクレジットカードが使えません)
 
 
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/menu1.jpg" alt="menu1" width="600" height="800" class="aligncenter size-full wp-image-120" />
+<img src="/hawaii-wedding/images/2016/06/menu1.jpg" alt="menu1" width="600" height="800" class="aligncenter size-full wp-image-120" />
 
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/menu2.jpg" alt="menu2" width="600" height="800" class="aligncenter size-full wp-image-122" />
+<img src="/hawaii-wedding/images/2016/06/menu2.jpg" alt="menu2" width="600" height="800" class="aligncenter size-full wp-image-122" />
 
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/menu3.jpg" alt="menu3" width="600" height="800" class="aligncenter size-full wp-image-121" />
+<img src="/hawaii-wedding/images/2016/06/menu3.jpg" alt="menu3" width="600" height="800" class="aligncenter size-full wp-image-121" />
 
 
 ## 待てども待てども呼ばれない？！
@@ -36,7 +37,7 @@ slug: boots-and-kimos
 
 ## 名物マカダミアナッツ・ソースのパンケーキ
 
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/boots_and_kimos.jpg" alt="boots_and_kimos" width="600" height="450" class="aligncenter size-full wp-image-110" />
+<img src="/hawaii-wedding/images/2016/06/boots_and_kimos.jpg" alt="boots_and_kimos" width="600" height="450" class="aligncenter size-full wp-image-110" />
 
 トラブルもありましたが、ようやくお目当てのマカダミアナッツ・ソースのパンケーキと、あまりにもお腹が空いていたので炒飯も食べました。「空腹は最高のスパイスである」ということで、腹ペコあおむしの2人にとっては美味しいパンケーキとなりました。
 

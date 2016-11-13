@@ -6,6 +6,7 @@ category: ['移動']
 tags: ['カイルア']
 published: true
 slug: how-to-go-to-kailua-by-bus
+img: /hawaii-wedding/images/2016/06/kailua-100x100.jpg
 ---
 
 [2回目のハワイ旅行](https://icossa.com/hawaii-wedding/hilton-free-voucher/)では、ワイキキから少し足を伸ばして、カイルア方面にバスで向かいました。
@@ -34,7 +35,7 @@ slug: how-to-go-to-kailua-by-bus
 
 ### Boots & Kimo's(ブーツ&キモズ)
 
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/IMG_1505-1024x1024.jpg" alt="IMG_1505" width="640" height="640" class="aligncenter size-large wp-image-116" />
+<img src="/hawaii-wedding/images/2016/06/IMG_1505-1024x1024.jpg" alt="IMG_1505" width="640" height="640" class="aligncenter size-large wp-image-116" />
 
 マカデミアナッツソースのパンケーキで有名なお店です。私達も行ってきました。
 
@@ -43,14 +44,14 @@ slug: how-to-go-to-kailua-by-bus
 
 ### カイルア・ビーチ
 
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/kailua.jpg" alt="kailua" width="600" height="450" class="aligncenter size-full wp-image-135" />
+<img src="/hawaii-wedding/images/2016/06/kailua.jpg" alt="kailua" width="600" height="450" class="aligncenter size-full wp-image-135" />
 
 カイルアのバス停から15分ぐらい歩くと「カイルア・ビーチ」が見えてきます。
 
 
 ### ラニカイ・ビーチ
 
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/blue-sky-and-blue-sea_27095565763_o-820x1024.jpg" alt="blue-sky-and-blue-sea_27095565763_o" width="640" height="799" class="aligncenter size-large wp-image-98" />
+<img src="/hawaii-wedding/images/2016/06/blue-sky-and-blue-sea_27095565763_o-820x1024.jpg" alt="blue-sky-and-blue-sea_27095565763_o" width="640" height="799" class="aligncenter size-large wp-image-98" />
 
 カイルア・ビーチから歩くこと15分程。ちょっとした山を超えると、ラニカイ・ビーチが見えてきます。砂浜がすごく綺麗！！青い空と、青い海と白い砂浜が映えます。地元の人か、観光客の人々は、ビーチパラソルにシートを引いて、読書をしたりのんびり寝そべったりして気持ちよさそうに過ごしていました。
 

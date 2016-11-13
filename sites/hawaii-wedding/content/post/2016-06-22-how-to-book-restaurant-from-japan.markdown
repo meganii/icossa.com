@@ -6,9 +6,10 @@ category: ['グルメ']
 tags: ['レストラン予約']
 published: true
 slug: how-to-book-restaurant-from-japan
+img: /hawaii-wedding/images/2016/06/PAK21_bistroQwineglass_TP_V-100x100.jpg
 ---
 
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/PAK21_bistroQwineglass_TP_V-1024x682.jpg" alt="PAK21_bistroQwineglass_TP_V" width="640" height="426" class="aligncenter size-large wp-image-163" />
+<img src="/hawaii-wedding/images/2016/06/PAK21_bistroQwineglass_TP_V-1024x682.jpg" alt="PAK21_bistroQwineglass_TP_V" width="640" height="426" class="aligncenter size-large wp-image-163" />
 
 日本から英語で国際電話をして予約するのはハードルが高いですよね。現地についてホテルから予約を取るとしても、確実に取れるかどうかわかりません。一番ラクで確実なのは、日本からインターネットで予約することです。
 

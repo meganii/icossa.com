@@ -6,8 +6,10 @@ category: ['式場選び']
 tags: ['ブライダル会社']
 published: true
 slug: how-much-wedding-cost-in-hawaii
+img: /hawaii-wedding/images/2016/06/UNI16040516IMG_0017_TP_V-100x100.jpg
 ---
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/UNI16040516IMG_0017_TP_V-1024x712.jpg" alt="UNI16040516IMG_0017_TP_V" width="640" height="445" class="aligncenter size-large wp-image-161" />
+
+<img src="/hawaii-wedding/images/2016/06/UNI16040516IMG_0017_TP_V-1024x712.jpg" alt="UNI16040516IMG_0017_TP_V" width="640" height="445" class="aligncenter size-large wp-image-161" />
 
 <strong>ハワイ挙式ってどのぐらいの予算なの？</strong>
 
@@ -18,7 +20,7 @@ slug: how-much-wedding-cost-in-hawaii
 
 挙式は「セント・アンドリュース大聖堂」にしたかったので、「ベストブライダル」に、旅行はHISで手配しました。挙式代 126万、旅費 72万のざっくり、200万ほど掛かりました。
 
-<img src="https://icossa.com/hawaii-wedding/wp-content/uploads/sites/2/2016/06/invoice.png" alt="invoice" width="702" height="485" class="aligncenter size-full wp-image-148" />
+<img src="/hawaii-wedding/images/2016/06/invoice.png" alt="invoice" width="702" height="485" class="aligncenter size-full wp-image-148" />
 
 挙式に掛かる費用で高いのは、アルバム代、衣装代ですね。段々と金銭感覚が麻痺してくるので注意してください。感覚として、1万円が千円ぐらいの感覚になってきます。それぐらいだったら誤差か。いやいや、数十万違うからね？！と自分でツッコミを入れるようにしてください笑。
 
