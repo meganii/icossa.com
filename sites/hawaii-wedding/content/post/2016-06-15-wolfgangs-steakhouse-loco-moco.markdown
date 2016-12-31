@@ -59,6 +59,6 @@ img: /hawaii-wedding/images/2016/06/loco-moco_27575339662_o-100x100.jpg
 ### 予約するなら
 
 - [オープンテーブル Wolfgang's Steak House - Waikiki Beach Restaurant - Honolulu, HI | OpenTable](http://www.opentable.com/wolfgangs-steak-house-waikiki-beach?ref=1068)
-- <a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3297538&pid=884174591&vc_url=http%3A%2F%2Fwww.veltra.com%2Fjp%2Fhawaii%2Foahu%2Fa%2F14102%3Fsid%3D1011" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3297538&pid=884174591" height="1" width="0" border="0">ウルフギャング・ステーキハウス　食事券＆事前予約サービス | VELTRA</a>
+- <a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3297538&pid=884174591&vc_url=http%3A%2F%2Fwww.veltra.com%2Fjp%2Fhawaii%2Foahu%2Fa%2F14102%3Fsid%3D1011" target="_blank" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3297538&pid=884174591" height="1" width="0" border="0">ウルフギャング・ステーキハウス　食事券＆事前予約サービス | VELTRA</a>
 
 ※ ハッピーアワーのバーカウンター席は予約できませんので注意してください
