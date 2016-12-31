@@ -33,7 +33,7 @@
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 2px;
   box-sizing: border-box; }
 .column,
 .columns {
@@ -406,6 +406,20 @@ there.
 .sp-none {
   display: none; }
 
+.sns{
+	width:90%;
+}
+
+.sns li {
+	float:left;
+	text-aligh:center;
+	list-style:none;
+	width:50%;
+}
+
+.snstext{
+	display:inline;
+}
 /* Larger than mobile */
 @media (min-width: 400px) {}
 
@@ -413,6 +427,14 @@ there.
 @media (min-width: 550px) {
   .sp-none {
     display: inline;}
+
+  .sns{
+  	width:100%;
+  }
+
+  .sns li {
+  	width:33%;
+  }
 }
 
 /* Larger than tablet */
