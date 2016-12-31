@@ -41,6 +41,8 @@
 
 		{{ partial "share.html" . }}
 
+		<div class="u-cf"></div>
+
 		{{ $baseurl := .Site.BaseURL }}
 		<section id="related">
 			<h2>Related Post</h2>
@@ -54,7 +56,7 @@
 				{{ range .Site.Data }}
 				  {{ range $url, $i := .Url}}
 						{{ if eq $url $filename }}
-								{{ range first 10 (sort .) }}
+								{{ range first 5 (sort .) }}
 									<li><a href="{{ .link }}">{{ .title }}</a></li>
 								{{ end }}
 						{{ end }}
