@@ -49,4 +49,4 @@ img: /hawaii-wedding/images/2016/06/UNI16040516IMG_0017_TP_V-100x100.jpg
 ## 参考
 
 - [【公式】ベストブライダル｜ゲストハウスウェディングの総合プロデュース](http://www.bestbridal.co.jp/)
-- <a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3297538&pid=884184736&vc_url=http%3A%2F%2Fwww.his-j.com%2Fdst%2Fhawaii.htm" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3297538&pid=884184736" height="1" width="0" border="0">H.I.S</a>
+- <a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3297538&pid=884184736&vc_url=http%3A%2F%2Fwww.his-j.com%2Fdst%2Fhawaii.htm" target="_blank" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3297538&pid=884184736" height="1" width="0" border="0">H.I.S</a>
