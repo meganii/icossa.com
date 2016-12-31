@@ -6,7 +6,7 @@ category: ['移動']
 tags: ['飛行機']
 published: true
 slug: finding-the-lowest-airfare-to-hawaii
-img: "/hawaii-wedding/images/2016/06/海外格安航空券・LCC・国際線の比較・予約【トラベルコちゃん】-100x100.jpg"
+img: "/hawaii-wedding/images/2016/06/traveco-100x100.jpg"
 ---
 
 今回、宿はヒルトンの招待券を3泊分頂いたので、自力で航空券を手配しなければなりませんでした。そのときに、参考にしたサイトを残しておきます。
@@ -15,7 +15,7 @@ img: "/hawaii-wedding/images/2016/06/海外格安航空券・LCC・国際線の�
 
 ## トラベルコちゃん
 
-<img src="/hawaii-wedding/images/2016/06/海外格安航空券・LCC・国際線の比較・予約【トラベルコちゃん】.jpg" alt="海外格安航空券・LCC・国際線の比較・予約【トラベルコちゃん】" width="958" height="759" class="aligncenter size-full wp-image-127" />
+<img src="/hawaii-wedding/images/2016/06/traveco.jpg" alt="海外格安航空券・LCC・国際線の比較・予約【トラベルコちゃん】" width="958" height="759" class="aligncenter size-full wp-image-127" />
 
 今回は、トラベルコちゃんの[海外格安航空券・LCC・国際線の比較・予約【トラベルコちゃん】](http://www.tour.ne.jp/w_air/)を利用して、航空券を手配しました。
 
@@ -34,13 +34,15 @@ img: "/hawaii-wedding/images/2016/06/海外格安航空券・LCC・国際線の�
 
 
 ### 格安航空券予約サイト-skyticket.jp
-<a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3297538&pid=884165395" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3297538&pid=884165395" height="1" width="1" border="0">格安航空券予約サイト-skyticket.jp</a>
+<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3297538&pid=884461650" target="_blank" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3297538&pid=884461650" height="1" width="1" border="0">海外格安航空券を探すなら　スカイチケット！</a>
+
 
 ### 海外格安航空券 総合旅行 DeNAトラベル(旧:スカイゲート)
-<a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3297538&pid=884165396" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3297538&pid=884165396" height="1" width="1" border="0">DeNAトラベル</a>
+<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3297538&pid=884461648" target="_blank" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3297538&pid=884461648" height="1" width="1" border="0">DeNAトラベル</a>
 
 ### エクスペディア
-<a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3297538&pid=884165397&vc_url=https%3A%2F%2Fwww.expedia.co.jp%2F%3Feapid%3D0-28%26affcid%3Djp.network.valuecommerce.general_mylink." target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3297538&pid=884165397" height="1" width="0" border="0">エクスペディア</a>
+- <a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3297538&pid=884461644" target="_blank" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3297538&pid=884461644" height="1" width="1" border="0">ホノルルの人気ホテルが毎日値下げ・バーゲンハンター</a>
+- <a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3297538&pid=884461645" target="_blank" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3297538&pid=884461645" height="1" width="1" border="0">ハワイ島の人気ホテルが毎日値下げ・バーゲンハンター</a>
 
 ### H.I.S.(エイチ・アイ・エス)
-<a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3297538&pid=884165398" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3297538&pid=884165398" height="1" width="1" border="0">H.I.S.(エイチ・アイ・エス)</a>
+<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3297538&pid=884461642" target="_blank" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3297538&pid=884461642" height="1" width="1" border="0">H.I.S. ハワイ旅行</a>
