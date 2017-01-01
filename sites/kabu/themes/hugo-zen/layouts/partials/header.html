@@ -32,6 +32,14 @@
 <meta name="msapplication-TileColor" content="#2d88ef">
 <meta name="msapplication-TileImage" content="/mstile-144x144.png">
 
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M344BC6');</script>
+<!-- End Google Tag Manager -->
+
 {{ if eq .URL "/" }}
 <!-- Index -->
 <meta property="og:type" content="website">
@@ -71,12 +79,15 @@
 
 </head>
 <body>
-
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M344BC6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <div class="container">
 
 	<header role="banner">
 		<div class="header-logo">
-			<a href="/"></a><h1 class="site-title"><a href="/"> <i class="fa fa-laptop"></i>のんびり投資でいこっさ</a></h1>
+			<h1 class="site-title"><a href="{{ .Site.BaseURL }}"><i class="fa fa-laptop"></i>のんびり投資でいこっさ</a></h1>
 			<p>会社に縛られない生き方、アーリーリタイアを目指すサラリーマンのブログ</p>
 		</div>
 		<ul class="nav">
