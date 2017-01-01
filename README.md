@@ -1,2 +1,2 @@
-# meganii.com
-my blog source
+# icossa.com
+my sites
