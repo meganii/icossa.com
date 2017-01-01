@@ -6,7 +6,7 @@ category: ['株']
 tags: ['投資信託']
 published: true
 slug: money-investment-trust
-img:
+img: /kabu/images/2016/05/OOK82_gurafuwoyubisasu20131223_TP_V-1024x637.jpg
 ---
 
 <!--more-->
@@ -14,7 +14,7 @@ img:
 
 <img src="/kabu/images/2016/05/OOK82_gurafuwoyubisasu20131223_TP_V-1024x637.jpg" alt="kabu" width="640" height="398" class="aligncenter size-large wp-image-54" />
 
-山崎元さんの「<a  href="http://www.amazon.co.jp/gp/product/4905073243/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4905073243&linkCode=as2&tag=meganii-22">難しいことはわかりませんが、お金の増やし方を教えてください!</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=meganii-22&l=as2&o=9&a=4905073243" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />」と「<a  href="http://www.amazon.co.jp/gp/product/4799317245/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4799317245&linkCode=as2&tag=meganii-22">図解　山崎元のお金に強くなる！</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=meganii-22&l=as2&o=9&a=4799317245" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />」を読んだので、自分なりに要点をまとめておきます。
+山崎元さんの「<a  href="https://www.amazon.co.jp/gp/product/4905073243/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4905073243&linkCode=as2&tag=meganii-22">難しいことはわかりませんが、お金の増やし方を教えてください!</a>」と「<a  href="https://www.amazon.co.jp/gp/product/4799317245/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4799317245&linkCode=as2&tag=meganii-22">図解　山崎元のお金に強くなる！</a>」を読んだので、自分なりに要点をまとめておきます。
 
 
 ## ２つの書籍の自分なりのポイント
@@ -72,7 +72,7 @@ img:
 
 ## 住宅購入のメリット・デメリット
 
-住宅は、購入すべきか、それとも、賃貸にすべきかについての話もあり、そこでは、住宅購入は不利である(若者であればなおさら)との考えとのことでした。メリット、デメリットは、「<a  href="http://www.amazon.co.jp/gp/product/4905073243/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4905073243&linkCode=as2&tag=meganii-22">難しいことはわかりませんが、お金の増やし方を教えてください!</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=meganii-22&l=as2&o=9&a=4905073243" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />」では以下のとおり記載があります。
+住宅は、購入すべきか、それとも、賃貸にすべきかについての話もあり、そこでは、住宅購入は不利である(若者であればなおさら)との考えとのことでした。メリット、デメリットは、「<a  href="https://www.amazon.co.jp/gp/product/4905073243/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4905073243&linkCode=as2&tag=meganii-22">難しいことはわかりませんが、お金の増やし方を教えてください!</a>」では以下のとおり記載があります。
 
 >メリット
 - 自分のものになる。という精神的効用 (あくまでも"精神的"効用のため、実際には自分のものになる部分は少ない)
@@ -97,5 +97,7 @@ img:
 
 ## 参考
 
-<div class="booklink-box"><div class="booklink-image"><a href=http://www.amazon.co.jp/%E5%9B%B3%E8%A7%A3-%E5%B1%B1%E5%B4%8E%E5%85%83%E3%81%AE%E3%81%8A%E9%87%91%E3%81%AB%E5%BC%B7%E3%81%8F%E3%81%AA%E3%82%8B%EF%BC%81-%E5%B1%B1%E5%B4%8E%E5%85%83/dp/4799317245%3FSubscriptionId%3DAKIAI6MZOKQQCKBKJBLQ%26tag%3Dmeganii-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4799317245><img src="https://images-na.ssl-images-amazon.com/images/I/61SQrY5jfCL._SL160_.jpg" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4799317245/meganii-22/">図解　山崎元のお金に強くなる！</a></div><div class=shoplinkrakuten><a href="http://hb.afl.rakuten.co.jp/hgc/g00q0725.il1o2897.g00q0725.il1o3b57/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13297927%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D13297927%26surl%3Dbook">楽天で買う</a></div></div></div>
-<div class="booklink-box"><div class="booklink-image"><a href=http://www.amazon.co.jp/%E9%9B%A3%E3%81%97%E3%81%84%E3%81%93%E3%81%A8%E3%81%AF%E3%82%8F%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8C%E3%80%81%E3%81%8A%E9%87%91%E3%81%AE%E5%A2%97%E3%82%84%E3%81%97%E6%96%B9%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-%E5%B1%B1%E5%B4%8E%E5%85%83/dp/4905073243%3FSubscriptionId%3DAKIAI6MZOKQQCKBKJBLQ%26tag%3Dmeganii-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4905073243><img src="https://images-na.ssl-images-amazon.com/images/I/51BVSO9ZnWL._SL160_.jpg" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4905073243/meganii-22/">難しいことはわかりませんが、お金の増やし方を教えてください!</a></div><div class=shoplinkrakuten><a href="http://hb.afl.rakuten.co.jp/hgc/g00q0725.il1o2897.g00q0725.il1o3b57/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13468386%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D13468386%26surl%3Dbook">楽天で買う</a></div></div></div>
+<div class="booklink-box"><div class="booklink-image"><a href=https://www.amazon.co.jp/%E5%9B%B3%E8%A7%A3-%E5%B1%B1%E5%B4%8E%E5%85%83%E3%81%AE%E3%81%8A%E9%87%91%E3%81%AB%E5%BC%B7%E3%81%8F%E3%81%AA%E3%82%8B%EF%BC%81-%E5%B1%B1%E5%B4%8E%E5%85%83/dp/4799317245%3FSubscriptionId%3DAKIAI6MZOKQQCKBKJBLQ%26tag%3Dmeganii-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4799317245><img src="https://images-fe.ssl-images-amazon.com/images/I/61SQrY5jfCL._SL160_.jpg" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4799317245/meganii-22/">図解　山崎元のお金に強くなる！</a></div><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4799317245/meganii-22/">Amazonで買う</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/10b944e1.69649a36.10b944e2.c5d6d56c/?pc=http://search.rakuten.co.jp/search/mall?sitem=図解　山崎元のお金に強くなる！&m=http://m.rakuten.co.jp/">楽天で買う</a></div><div class="shoplinkyahoo"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3067752&pid=884189678&vc_url=http://search.shopping.yahoo.co.jp/search?p=図解　山崎元のお金に強くなる！">Yahoo!で買う</a></div></div></div>
+
+
+<div class="booklink-box"><div class="booklink-image"><a href=https://www.amazon.co.jp/%E9%9B%A3%E3%81%97%E3%81%84%E3%81%93%E3%81%A8%E3%81%AF%E3%82%8F%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8C%E3%80%81%E3%81%8A%E9%87%91%E3%81%AE%E5%A2%97%E3%82%84%E3%81%97%E6%96%B9%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-%E5%B1%B1%E5%B4%8E%E5%85%83/dp/4905073243%3FSubscriptionId%3DAKIAI6MZOKQQCKBKJBLQ%26tag%3Dmeganii-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4905073243><img src="https://images-fe.ssl-images-amazon.com/images/I/51BVSO9ZnWL._SL160_.jpg" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4905073243/meganii-22/">難しいことはわかりませんが、お金の増やし方を教えてください!</a></div><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4905073243/meganii-22/">Amazonで買う</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/10b944e1.69649a36.10b944e2.c5d6d56c/?pc=http://search.rakuten.co.jp/search/mall?sitem=難しいことはわかりませんが、お金の増やし方を教えてください!&m=http://m.rakuten.co.jp/">楽天で買う</a></div><div class="shoplinkyahoo"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3067752&pid=884189678&vc_url=http://search.shopping.yahoo.co.jp/search?p=難しいことはわかりませんが、お金の増やし方を教えてください!">Yahoo!で買う</a></div></div></div>
