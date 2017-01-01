@@ -1,12 +1,12 @@
 ---
 title: "のんびり投資でいこっさを始めました"
 date: 2016-02-20T20:55:38+09:00
+lastmod: 2016-02-20T20:55:38+09:00
 comments: true
 category: ['株']
 tags: ['株']
 published: true
 slug: start-site
-img:
 ---
 
 
