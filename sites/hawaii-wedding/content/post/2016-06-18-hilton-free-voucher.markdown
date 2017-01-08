@@ -2,7 +2,7 @@
 title: "ヒルトン・グランド・バケーションズの説明会でプレミアム宿泊招待券でハワイに行ってきた"
 date: 2016-06-18T15:19:00+09:00
 comments: true
-category: ['ホテル']
+category: ['Hotel']
 tags: ['ヒルトン','タイムシェア']
 published: true
 slug: hilton-free-voucher

@@ -2,7 +2,7 @@
 title: "ワイキキからカイルアへのバスでの行き方"
 date: 2016-06-17T06:48:00+09:00
 comments: true
-category: ['移動']
+category: ['Travel']
 tags: ['カイルア']
 published: true
 slug: how-to-go-to-kailua-by-bus

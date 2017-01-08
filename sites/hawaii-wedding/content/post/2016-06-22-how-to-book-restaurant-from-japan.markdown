@@ -2,7 +2,7 @@
 title: "ハワイのレストランを日本から簡単に予約する方法"
 date: 2016-06-22T21:35:00+09:00
 comments: true
-category: ['グルメ']
+category: ['Menu']
 tags: ['レストラン予約']
 published: true
 slug: how-to-book-restaurant-from-japan

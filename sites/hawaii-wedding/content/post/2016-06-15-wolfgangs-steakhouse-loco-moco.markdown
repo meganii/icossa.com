@@ -2,7 +2,7 @@
 title: "ウルフギャング・ステーキハウスのロコモコこそ至高の一品"
 date: 2016-06-15T06:15:02+09:00
 comments: true
-category: ['グルメ']
+category: ['Menu']
 tags: ['ステーキ','ウルフギャング・ステーキハウス']
 published: true
 slug: wolfgangs-steakhouse-loco-moco

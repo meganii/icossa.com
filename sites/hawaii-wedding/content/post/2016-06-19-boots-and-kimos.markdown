@@ -2,7 +2,7 @@
 title: "Boots & Kimo's(ブーツアンドキモズ)〜名物マカダミアナッツ・ソースのパンケーキ〜"
 date: 2016-06-19T07:54:00+09:00
 comments: true
-category: ['グルメ']
+category: ['Menu']
 tags: ['パンケーキ','ブーツ・アンド・キモーズ']
 published: true
 slug: boots-and-kimos

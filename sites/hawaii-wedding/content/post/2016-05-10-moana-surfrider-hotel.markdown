@@ -2,7 +2,7 @@
 title: "憧れのモアナ・サーフライダーに泊まる！！"
 date: 2016-05-10T23:20:00+09:00
 comments: true
-category: ['ホテル']
+category: ['Hotel']
 tags: ['モアナ・サーフライダー']
 published: true
 slug: moana-surfrider-hotel

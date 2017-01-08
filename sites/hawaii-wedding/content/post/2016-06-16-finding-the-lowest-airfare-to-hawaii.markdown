@@ -2,7 +2,7 @@
 title: "ネットで航空券を安く購入してハワイに行く方法"
 date: 2016-06-16T21:38:00+09:00
 comments: true
-category: ['移動']
+category: ['Travel']
 tags: ['飛行機']
 published: true
 slug: finding-the-lowest-airfare-to-hawaii
