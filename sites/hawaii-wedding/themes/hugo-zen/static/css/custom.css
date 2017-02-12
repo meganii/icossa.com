@@ -62,10 +62,6 @@ blockquote:before{
   top:0;
 }
 
-/*main {
-  margin: 4rem 0;
-}*/
-
 .container {
   width: 90%;
   max-width: 960px;
@@ -181,10 +177,6 @@ blockquote:before{
   height: 280px;
   margin: 5px;
   float : left;
-}
-
-.zenback {
-  margin-top: 5px;
 }
 
 .urllist li {
