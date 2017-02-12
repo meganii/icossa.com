@@ -5,7 +5,7 @@ permalinks:
   post: "/:slug/"
 
 Params:
-  Author: "meganii"
+  Author: "icossahawaii"
   Birth: "Sun, March 3, 1988"
   DateForm: "Mon, Jan 2, 2006"
   GoogleAnalyticsUserID: "UA-74088325-2"
