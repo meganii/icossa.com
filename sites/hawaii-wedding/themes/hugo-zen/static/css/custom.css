@@ -21,14 +21,14 @@ h6 { font-size: 1.5rem; }
   color: #444444;
   background: #f3f3f3;
   padding: 10px 15px;
-  border-left: 10px solid #e07000;
+  border-left: 10px solid #E91E63;
 }
 
 #post h3 {
   font-size: 1.8rem;
   padding: 8px;
   background: none;
-  border-bottom: 2px dashed #e07000;
+  border-bottom: 2px dashed #E91E63;
 }
 
 img {
@@ -102,7 +102,6 @@ blockquote:before{
   margin-right: 5px;
   text-align: center;
   text-decoration: none;
-  /*background-color: #e07000;*/
   font-weight: bold;
   color: #222;
 }
