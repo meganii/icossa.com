@@ -17,7 +17,7 @@ slug: bridal-company-has-chapel-and-church
 
 つまり、どういうことかというと、式を挙げたい！という場所(チャペル・チャーチ)が決まっているのであれば、自然とブライダル会社が決まってくるのです。
 
-[チャペルとチャーチの違いって？](http://icossa.com/hawaii-wedding/difference-between-chapel-and-church/)
+[チャペルとチャーチの違いって？](https://icossa.com/hawaii-wedding/difference-between-chapel-and-church/)
 
 ## ブライダル会社とチャペル・チャーチ
 

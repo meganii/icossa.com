@@ -1,12 +1,13 @@
 ---
 title: "ハワイ挙式におけるチャペルとチャーチの違い"
 date: 2016-01-15T08:00:02+09:00
+lastmod: 2017-02-12T23:00:02+09:00
 comments: true
 category: ['式場選び']
 tags: ['チャーチ','チャペル','式場','教会']
 published: true
 slug: difference-between-chapel-and-church
-img:
+img: "/hawaii-wedding/images/2016/01/1.jpeg"
 ---
 
 ハワイでの挙式を考えたときに、よく出てくるチャペルとチャーチ(教会)が出てきますが、その違いはご存知でしょうか？
@@ -16,7 +17,7 @@ img:
 {{% googleadsense %}}
 
 ## チャペル
-- 挙式をするための商業施設
+- 挙式をするための**商業施設**
 - 所有会社の施設のため、経営次第で無くなる可能性がある
 - 海の見える場所や、緑に囲まれたハワイ感あふれるロケーションに位置している
 - 比較的小さく30-40人程度収容できる
@@ -26,11 +27,14 @@ img:
 
 ## チャーチ(教会)
 - 地域の信者が集まって礼拝を行う場所
-- 簡単に取り壊すことは難しく長年存在してきたため、今後も残り続ける可能性が高い
+- 簡単に取り壊すことは難しく長年存在してきたため、**今後も残り続ける可能性が高い**
 - ステンドグラスがあったり、神聖な場所が多い
 - 100〜200人など大規模
 
-<a href="http://www.thecathedralofstandrew.org/" target="_blank"><img class="alignleft" src="/hawaii-wedding/images/2016/01/2.jpeg" alt="" width="150" height="130" align="left" border="0" /></a><a style="color: #0070c5;" href="http://www.thecathedralofstandrew.org/" target="_blank">The Cathedral of St. Andrew | The Episcopal Diocese of Hawaii</a><br style="clear: both;" />
+
+[![https://gyazo.com/2e1142998a866db29d4dd0455c73a698](https://i.gyazo.com/thumb/200/_0f86ecb22139919f54988060ff51dda5-png.jpg)](https://gyazo.com/2e1142998a866db29d4dd0455c73a698)  
+<a style="color: #0070c5;" href="http://www.thecathedralofstandrew.org/" target="_blank">The Cathedral of St. Andrew | The Episcopal Diocese of Hawaii</a>
+
 
 
 海の見える式場など、思い浮かべるハワイ挙式は、おそらくチャペルだと思います。いわゆるハワイらしい挙式を求めるのであれば、チャペルを中心に探すのがよいです。
