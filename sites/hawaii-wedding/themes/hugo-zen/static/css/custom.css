@@ -369,16 +369,11 @@ SNS
 	padding:5px 10px 5px 15px;
 	color:#fff;
 	border-radius:3px;
-	//text-align:center;
 	text-decoration: none;
 	height:25px;
 	margin:5px;
 	cursor:pointer;
-	vertical-align: middle;
 	line-height:25px;
-}
-
-.sns li a:hover {
 }
 
 /* ツイッター */
