@@ -38,27 +38,31 @@ slug: place-of-chapel-and-church
 
 ## キャルバリー・バイ・ザ・シー教会
 
-<a href="http://wedding-bythesea.com/"><img src="/hawaii-wedding/images/2016/05/wide-question-church-1024x480.jpg" alt="キャルバリー・バイ・ザ・シー" width="580" height="272" class="size-large wp-image-50" /></a><a href="http://wedding-bythesea.com/">引用元：「ハワイ・オアフ島で唯一海辺に立つ教会 キャルバリー・バイ・ザ・シー オフィシャルサイト」 http://wedding-bythesea.com/</a>
+<a href="http://wedding-bythesea.com/"><img src="/hawaii-wedding/images/2016/05/wide-question-church-1024x480.jpg" alt="キャルバリー・バイ・ザ・シー" width="580" height="272" class="size-large wp-image-50" /></a><br />
+<a href="http://wedding-bythesea.com/">引用元：「ハワイ・オアフ島で唯一海辺に立つ教会 キャルバリー・バイ・ザ・シー オフィシャルサイト」 http://wedding-bythesea.com/</a>
 
 ここはチャペル(教会)で、かつ、海が見えるという唯一の場所です。どっちもいいとこ取りができて素晴らしいのですが、私達は、ちょっとイメージが違うんじゃないかと思い選択しませんでした。
 
 
 ## ザ・テラス バイ・ザ・シー　ナウパカチャペル
 
-<a href="http://www.takami-bridal.com/overseas/facilities/naupaka.html"><img src="/hawaii-wedding/images/2016/05/pic_naupaka01.jpg" alt="引用元：「タカミブライダル」http://www.takami-bridal.com/overseas/facilities/naupaka.html" width="650" height="490" class="size-full wp-image-54" /></a><a href="http://www.takami-bridal.com/overseas/facilities/naupaka.html">引用元：「タカミブライダル」http://www.takami-bridal.com/overseas/facilities/naupaka.html</a>
+<a href="http://www.takami-bridal.com/overseas/facilities/naupaka.html"><img src="/hawaii-wedding/images/2016/05/pic_naupaka01.jpg" alt="引用元：「タカミブライダル」http://www.takami-bridal.com/overseas/facilities/naupaka.html" width="650" height="490" class="size-full wp-image-54" /></a><br />
+<a href="http://www.takami-bridal.com/overseas/facilities/naupaka.html">引用元：「タカミブライダル」http://www.takami-bridal.com/overseas/facilities/naupaka.html</a>
 
 このナウパカチャペルも捨てがたかったです!純白のチャペルで、その向こうに海が見えるのは写真でみるだけでも素敵でした。
 
 ## ザ・モアナチャペル
 
-<a href="https://www.arluis.com//area/hawaii/msr/"><img src="/hawaii-wedding/images/2016/05/001-1024x576.jpg" alt="引用元：「ハワイ挙式・ハワイ結婚式は【アールイズ・ウエディング】」https://www.arluis.com//area/hawaii/msr/" width="580" height="326" class="size-large wp-image-57" /></a> <a href="https://www.arluis.com//area/hawaii/msr/">引用元：「ハワイ挙式・ハワイ結婚式は【アールイズ・ウエディング】」https://www.arluis.com//area/hawaii/msr/</a>
+<a href="https://www.arluis.com//area/hawaii/msr/"><img src="/hawaii-wedding/images/2016/05/001-1024x576.jpg" alt="引用元：「ハワイ挙式・ハワイ結婚式は【アールイズ・ウエディング】」https://www.arluis.com//area/hawaii/msr/" width="580" height="326" class="size-large wp-image-57" /></a><br />
+<a href="https://www.arluis.com//area/hawaii/msr/">引用元：「ハワイ挙式・ハワイ結婚式は【アールイズ・ウエディング】」https://www.arluis.com//area/hawaii/msr/</a>
 
 ここも最後まで候補のひとつとして迷っていました。今回私たちは、モアナサーフライダーに宿泊するため、泊まったそのホテルで挙式を挙げられる。憧れのモアナサーフライダーで挙式ができるなど、心躍るポイントはいくつもありました。それでも、セント・アンドリュース・カテドラル教会に決めたのはやはり、広さが挙げられます。実際に、式場に行ったわけではありませんが、写真で見る限り、ザ・モアナチャペルは天井が低く、ちょっと閉塞感があるのではないか？その点、セント・アンドリュース・カテドラル教会は大きなステンドグラス、長いバージンロードがあり、開放的でした。
 
 
 ## ホヌカイラニ コオリナ・プレイス・オブ・ウェリナ
 
-<a href="http://www.watabe-wedding.co.jp/resort_wedding/hawaii/honu_kai_lani/"><img src="/hawaii-wedding/images/2016/05/img_main_02.jpg" alt="引用元：「ワタベウェディング」" width="940" height="400" class="size-full wp-image-63" /></a><a href="http://www.watabe-wedding.co.jp/resort_wedding/hawaii/honu_kai_lani/"> 引用元：「ワタベウェディング」</a>
+<a href="http://www.watabe-wedding.co.jp/resort_wedding/hawaii/honu_kai_lani/"><img src="/hawaii-wedding/images/2016/05/img_main_02.jpg" alt="引用元：「ワタベウェディング」" width="940" height="400" class="size-full wp-image-63" /></a><br />
+<a href="http://www.watabe-wedding.co.jp/resort_wedding/hawaii/honu_kai_lani/"> 引用元：「ワタベウェディング」</a>
 
 ここも、海が見える綺麗さ、まさにハワイ感がありました。でも、度重なる式場選びの結果、いわゆるハワイ感よりも、しっとりと上品にバージンロードにドレスが映える式の方がよいのではないか？となり、ここも選びませんでした。
 
