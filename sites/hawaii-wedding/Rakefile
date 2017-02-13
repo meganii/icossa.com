@@ -97,7 +97,7 @@ task :merge_filename do
             next
           end
           date = Date.strptime(data['date'].to_s,"%Y-%m-%d")
-          url = "https://icossa.com/hawaii-wedding/" + date.to_s.gsub("-", "/") + "/" + data['slug'] + "/"
+          url = "https://icossa.com/hawaii-wedding/" + data['slug'] + "/"
           wf.puts(File.basename(f, ".*") + "\t" + url + "\t\"" + data['title'] + "\"")
         end
       end
