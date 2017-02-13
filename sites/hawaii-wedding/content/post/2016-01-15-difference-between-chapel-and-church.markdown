@@ -39,7 +39,7 @@ img: "/hawaii-wedding/images/2016/01/1.jpeg"
 
 海の見える式場など、思い浮かべるハワイ挙式は、おそらくチャペルだと思います。いわゆるハワイらしい挙式を求めるのであれば、チャペルを中心に探すのがよいです。
 
-ただし、チャペルは商業施設のため、いつの日か営業をやめてしまい、思い出の場所がなくなってしまう可能性もあります。たとえ、存在していたとしても、再びハワイを訪れたときには、挙式の都合上、中に入ることは難しいでしょう。
+ただし、チャペルは商業施設のためいつの日か営業をやめてしまい、思い出の場所がなくなってしまう可能性もあります。たとえ、存在していたとしても、再びハワイを訪れたときには挙式の都合上、中に入ることは難しいでしょう。
 
 一方、チャーチ(教会)であれば今後も残り続ける可能性は高いし、ハワイを訪れたときも教会内に入れることができます。
 
@@ -51,3 +51,4 @@ img: "/hawaii-wedding/images/2016/01/1.jpeg"
 
 ## 参考
 <a href="http://www.watabe-wedding.co.jp/trend/shop-minamiaoyama/2014/04/post_24.html" target="_blank"><img class="alignleft" src="/hawaii-wedding/images/2016/01/3.jpeg" alt="" width="150" height="130" align="left" border="0" /></a><a style="color: #0070c5;" href="http://www.watabe-wedding.co.jp/trend/shop-minamiaoyama/2014/04/post_24.html" target="_blank">「チャペル」と「教会」の違いとは...？ | 国内サロン[南青山サロン]のブログ | リゾートウェディング「リゾ婚」なら【ワタベウェディング】</a>
+<br style="clear: both;" />
