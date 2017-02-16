@@ -6,7 +6,7 @@ category: ['株']
 tags: ['ETF']
 published: true
 slug: how-to-survive-this-invest-world
-img: 
+img: https://images-fe.ssl-images-amazon.com/images/I/51zFv7nEFAL._SL160_.jpg
 ---
 
 日本は、人口減少、GDPも上がらないため、投資先としては安泰とは言えない。
